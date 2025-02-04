@@ -24,7 +24,7 @@ A simple **Telephone Directory** program implemented in C++ using file handling.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/telephone-directory-cpp.git
+   git clone https://github.com/vaibhav0725/phonedirec.git
    cd telephone-directory-cpp
    ```
 
@@ -127,15 +127,9 @@ Contributions are welcome! If you find any issues or want to enhance the project
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
 
-[Your Name](https://github.com/your-username)
+[Your Name](https://github.com/vaibhav0725)
 
 ---
 
@@ -143,11 +137,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by basic file handling and data management concepts in C++.
 - Thanks to the C++ community for resources and support.
-
----
-
-## Screenshots (Optional)
-
-If you want to add screenshots of your program in action, you can include them here.
 
 ---
