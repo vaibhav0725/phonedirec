@@ -129,7 +129,7 @@ Contributions are welcome! If you find any issues or want to enhance the project
 
 ## Author
 
-[Your Name](https://github.com/vaibhav0725)
+[Vaibhav Malik](https://github.com/vaibhav0725)
 
 ---
 
